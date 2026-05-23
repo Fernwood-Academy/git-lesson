@@ -1,0 +1,2 @@
+This is my file
+Created just for the purpose of my git lesson
