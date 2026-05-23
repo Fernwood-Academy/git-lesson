@@ -1,2 +1,2 @@
-This is my file by Paul
+This is my file by Paul today
 Created just for the purpose of my git lesson
