@@ -1,1 +1,4 @@
 Today is Saturday.
+
+Git is awesome
+Yesterday was stressful
